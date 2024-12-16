@@ -1,0 +1,13 @@
+attacker/
+checkpoints/*
+datasets/amazon-beauty*
+datasets/amazon-book*
+datasets/amazon-clothing*
+datasets/amazon-movies*
+datasets/amazon-toys*
+datasets/ml*
+datasets/yelp*
+datasets/*.rar
+Diff-WGAN/log/
+Diff-WGAN/saved_models/
+*.zip
