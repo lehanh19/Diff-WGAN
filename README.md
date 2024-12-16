@@ -46,7 +46,7 @@ sh run.sh amazon-apps_clean 5e-5 1e-5 0 1000 [1000] 10 x0 5 0.0001 0.0005 0.005 
 ```
 2. Inference Diff-WGAN on amazon-apps under aush attack setting
 ```
-cd ./L-DiffRec
+cd ./Diff-WGAN
 python inference.py --dataset=amazon-apps_clean_aush_attack --gpu=0
 ```
 
